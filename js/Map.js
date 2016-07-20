@@ -43,8 +43,8 @@ var __MAP__ = [
 var WIDTH = 51;
 
 var __POPULATION__ = {
-  'A': 12,
-  'B': 12,
+  'A': 4,
+  'B': 26,
   'C': 12,
 };
 
@@ -55,9 +55,9 @@ var __ISLANDS__ = {
 };
 
 var __INITIAL_WORDS__ = {
-  'A': 'zelere',
-  'B': 'acaba',
-  'C': 'lulere',
+  'A': 'zelerezelerezelerezelerezelerezelere',
+  'B': 'acabaacabaacabaacabaacabaacabaacaba',
+  'C': 'lulerelulerelulerelulerelulerelulere',
 };
 
 var __GATES__ = {
